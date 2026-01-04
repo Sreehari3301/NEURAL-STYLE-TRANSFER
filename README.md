@@ -1,5 +1,17 @@
 # NEURAL STYLE TRANSFER
 
+*COMPANY NAME*: CODTECH IT SOLUTIONS
+
+*NAME*: SREEHARI R
+
+*INTERN ID*: CTIS0675
+
+*DOMIAN*: ARTIFICIAL INTELLIGENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
 This project implements **Neural Style Transfer** using TensorFlow and the VGG19 model. Neural Style Transfer is an optimization technique used to take two images—a *content image* and a *style reference image* (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
 
 ## How it Works
@@ -67,4 +79,5 @@ To run the high-quality script directly:
 - `requirements.txt`: List of required Python packages.
 - `uploads/`: Directory where your uploaded images are stored.
 - `results/`: Directory where the stylized masterpieces are saved.
+
 
