@@ -83,4 +83,4 @@ To run the high-quality script directly:
 
 ## Output
 
-
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/48ce6505-9c12-46b1-af4a-85ebf7b476ff" />
