@@ -1,4 +1,4 @@
-# Neural Style Transfer (NST) with VGG19
+# NEURAL STYLE TRANSFER
 
 This project implements **Neural Style Transfer** using TensorFlow and the VGG19 model. Neural Style Transfer is an optimization technique used to take two images—a *content image* and a *style reference image* (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
 
@@ -67,3 +67,4 @@ To run the high-quality script directly:
 - `requirements.txt`: List of required Python packages.
 - `uploads/`: Directory where your uploaded images are stored.
 - `results/`: Directory where the stylized masterpieces are saved.
+
