@@ -81,3 +81,6 @@ To run the high-quality script directly:
 - `results/`: Directory where the stylized masterpieces are saved.
 
 
+## Output
+
+
